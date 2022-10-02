@@ -1,21 +1,28 @@
-# Week-1-code-refractor
+# Week-1-code-refactor
 
 ## Description
+As a developer I was tasked with refactoring the existing codebase for Horiseon by making it more accessible and getting it optimised for search engines.
+## What has been done
+* A more concise and descriptive title was added.
+* HTML elements were replaced with semantic HTML elements.
+* Refactored CSS following the DRY principle.
+* Comments were provided in both HTML and CSS file.
+* Fixed broken navigational link.
+* Alt texts added to images.
+* Added Readme file containing the following:
+    * changes made to the HTML and CSS files.
+    * application screenshot.
+    * URL to the deployed application.
+    * URL to the Github repository.
 
-## Table of Contents (Optional)
+## Screenshots
 
-## Installation
+![Horiseon Website Screenshot](./assets/images/horiseon-refactor-screenshot.png)
 
-## Usage
+## Link to deployed application
 
-## Credits
+[Link to deployed application](https://eduardbahrin.github.io/Week-1-code-refractor/)
 
-## License
+## Link to GitHub Repository
 
-## Badges
-
-## Features
-
-## How to Contribute
-
-## Tests
+[Link to Github Repository](https://github.com/eduardbahrin/Week-1-code-refractor)
